@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> www.aboutme.com </title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<img src="fadi.jpg" style="width:304px;height:228px;">
+<center>Five facts about me</center>
+<ul>
+<li> I'm a proud Palestinian </li>
+<br> <br>
+<li> I love myself </li>
+<br> <br>
+<li> I keep saying poems while sleeping  </li>
+<br> <br>
+<li> I really enjoy helping people and making them happy </li>
+<br> <br>
+<li> I support BARCELONA </li>
+<br> <br>
+</ul>
+<a href="home.html" target="_blank"> go back to home </a>
+<br>
+<a href="contactme.html" target="_blank"> How to contact me </a>
+
+</body>
+ 
+</html>
